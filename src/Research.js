@@ -34,7 +34,7 @@ const Research = (props) => {
                             <div class="jXK9ad-SmKAyb"><div class="tyJCtd mGzaTb baZpAe">
                                 <div id="h.p_KxExXl5JwdV3" class="GV3q8e aP9Z7e">
                                 </div>
-                                <h3> id="h.p_KxExXl5JwdV3_l" dir="ltr" class="CDt4Ke zfr3Q OmQG5e" tabindex="-1" </h3><div jscontroller="Ae65rd"
+                                <div jscontroller="Ae65rd"
                                     jsaction="touchstart:UrsOsc; click:KjsqPd; focusout:QZoaZ; mouseover:y0pDld; mouseout:dq0hvd;fv1Rjc:jbFSOd;CrfLRd:SzACGe;"
                                     class="CjVfdc">
                                     <div class="PPhIP rviiZ" jsname="haAclf"><div 
@@ -59,7 +59,7 @@ const Research = (props) => {
                                         the blind ice hockey experience.</span></div>
                                 <p dir="ltr" class="CDt4Ke zfr3Q"><br /></p>
                                 <p dir="ltr" class="CDt4Ke zfr3Q"><span style={{ fontFamily: 'Lato' }}><strong>We would appreciate it if you would share your experiences regarding blind ice hockey in the following survey:</strong></span>
-                                    <span class=" aw5Odc" style={{ textDecoration: 'underline' }}><a class="XqQF9c" href="https://www.google.com/url?q=https%3A%2F%2Fslu.az1.qualtrics.com%2Fjfe%2Fform%2FSV_0em4qSJXFfNO7r0&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1p3-zFFTpw2LGJifqtxon0"
+                                    <span class=" aw5Odc" style={{ textDecoration: 'underline' }}><a class="XqQF9c" href="https://lh5.googleusercontent.com/ZAs0cZOAxWp12qWYj28qBG-e2YCLAoEEy7Kojr-ysTKeDW3uafC5SyXldsu8hgmFnSfmm06sis_F_t286V8srKZ58ZHy-5kXotqqkob6lQJe2tDl=w1280ss"
                                         >https://slu.az1.qualtrics.com/jfe/form/SV_0em4qSJXFfNO7r0</a></span></p><p dir="ltr"
                                             class="CDt4Ke zfr3Q"><br /></p><p dir="ltr" class="CDt4Ke zfr3Q"><span style={{ fontFamily: 'Lato' }}>
                                                 <strong>If would like to subscribe to our monthly newsletter, email:</strong></span>
