@@ -16,7 +16,7 @@ const Research = (props) => {
                                 jsname="F57UId"><div class="oKdM2c Kzv0Me"
                                 ><div id="h.637ed649988743af_546" class="hJDwNd-AhqUyc-c5RTEf purZT-AhqUyc-c5RTEf pSzOP-AhqUyc-c5RTEf jXK9ad D2fZ2 OjCsFc wHaque">
                                         <div class="jXK9ad-SmKAyb"><div class="tyJCtd baZpAe"><div class="t3iYD">
-                                            <img src="https://lh4.googleusercontent.com/ldKHfABb_TonS3frW1BRxJiyoAwYcdnLGn_jYYlvH-LpNbCzNhb2wDKrX9AiIbx4njFtEDdaymGTSrZSRlubKeYZf_WDgi9kCrrOUxnUw5WEFczA=w1280" class="CENy8b" alt = 'Research'  /></div></div></div></div></div></div>
+                                            </div></div></div></div></div></div>
                             </div>
                         </div>
                         <div class="hJDwNd-AhqUyc-ibL1re JNdkSc L6cTce-purZT L6cTce-pSzOP">
