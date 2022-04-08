@@ -59,7 +59,7 @@ const Research = (props) => {
                                         the blind ice hockey experience.</span></div>
                                 <p dir="ltr" class="CDt4Ke zfr3Q"><br /></p>
                                 <p dir="ltr" class="CDt4Ke zfr3Q"><span style={{ fontFamily: 'Lato' }}><strong>We would appreciate it if you would share your experiences regarding blind ice hockey in the following survey:</strong></span>
-                                    <span class=" aw5Odc" style={{ textDecoration: 'underline' }}><a class="XqQF9c" href="https://lh5.googleusercontent.com/ZAs0cZOAxWp12qWYj28qBG-e2YCLAoEEy7Kojr-ysTKeDW3uafC5SyXldsu8hgmFnSfmm06sis_F_t286V8srKZ58ZHy-5kXotqqkob6lQJe2tDl=w1280ss"
+                                    <span class=" aw5Odc" style={{ textDecoration: 'underline' }}><a class="XqQF9c" href="https://lh5.googleusercontent.com/ZAs0cZOAxWp12qWYj28qBG-e2YCLAoEEy7Kojr-ysTKeDW3uafC5SyXldsu8hgmFnSfmm06sis_F_t286V8srKZ58ZHy-5kXotqqkob6lQJe2tDl=w1280"
                                         >https://slu.az1.qualtrics.com/jfe/form/SV_0em4qSJXFfNO7r0</a></span></p><p dir="ltr"
                                             class="CDt4Ke zfr3Q"><br /></p><p dir="ltr" class="CDt4Ke zfr3Q"><span style={{ fontFamily: 'Lato' }}>
                                                 <strong>If would like to subscribe to our monthly newsletter, email:</strong></span>
