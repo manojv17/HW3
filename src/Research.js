@@ -41,7 +41,7 @@ const Research = (props) => {
                                         class="U26fgb mUbCce fKz7Od LRAOtb Znu9nd M9Bg4d" jscontroller="mxS5xe"
                                         jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue; focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;"
                                         jsshadow="" aria-describedby="h.p_KxExXl5JwdV3_l" aria-label="Copy heading link" aria-disabled="false" data-tooltip="Copy heading link" aria-hidden="true" data-tooltip-position="top"
-                                        data-tooltip-vertical-offset="12" data-tooltip-horizontal-offset="0"><a class="FKF6mc TpQm9d" href="#h.p_KxExXl5JwdV3" aria-label="Copy heading link" jsname="hiK3ld" role="button" aria-describedby="h.p_KxExXl5JwdV3_l">
+                                        data-tooltip-vertical-offset="12" data-tooltip-horizontal-offset="0"><a class="FKF6mc TpQm9d" href="https://lh5.googleusercontent.com/ZAs0cZOAxWp12qWYj28qBG-e2YCLAoEEy7Kojr-ysTKeDW3uafC5SyXldsu8hgmFnSfmm06sis_F_t286V8srKZ58ZHy-5kXotqqkob6lQJe2tDl=w1280" aria-label="Copy heading link" jsname="hiK3ld" role="button" aria-describedby="h.p_KxExXl5JwdV3_l">
                                             <div class="VTBa7b MbhUzd" jsname="ksKsZd"></div>
                                             <span jsslot="" class="xjKiLb"><span class="Ce1Y1c" style={{ top: '-11px' }} >
                                                 <svg class="OUGEr QdAdhf" width="22px" height="22px" viewBox="0 0 24 24" fill="currentColor" focusable="false">
